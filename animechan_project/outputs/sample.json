@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "characters": null,
+    "shows": null,
+    "record_count": 12
+  },
+  "data": [
+    {
+      "anime": "Code Geass",
+      "character": "Lelouch Lamperouge",
+      "quote": "If the king does not move, then his subjects will not follow."
+    },
+    {
+      "anime": "Naruto",
+      "character": "Naruto Uzumaki",
+      "quote": "I never go back on my word. That is my ninja way."
+    },
+    {
+      "anime": "Fullmetal Alchemist: Brotherhood",
+      "character": "Edward Elric",
+      "quote": "A lesson without pain is meaningless. You can't gain something without sacrificing something else."
+    },
+    {
+      "anime": "Attack on Titan",
+      "character": "Levi Ackerman",
+      "quote": "The only thing we're allowed to do is to believe that we won't regret the choice we made."
+    },
+    {
+      "anime": "One Piece",
+      "character": "Monkey D. Luffy",
+      "quote": "If you don’t take risks, you can’t create a future."
+    },
+    {
+      "anime": "Bleach",
+      "character": "Ichigo Kurosaki",
+      "quote": "If fate is a millstone, then we are the grist that grinds against it."
+    },
+    {
+      "anime": "Demon Slayer",
+      "character": "Tanjiro Kamado",
+      "quote": "No matter how many people you may lose, you have no choice but to go on living."
+    },
+    {
+      "anime": "Jujutsu Kaisen",
+      "character": "Satoru Gojo",
+      "quote": "When you die, you’ll be alone."
+    },
+    {
+      "anime": "My Hero Academia",
+      "character": "All Might",
+      "quote": "It’s fine now. Why? Because I am here!"
+    },
+    {
+      "anime": "Death Note",
+      "character": "Light Yagami",
+      "quote": "I will take a potato chip... and eat it!"
+    },
+    {
+      "anime": "Dragon Ball Z",
+      "character": "Goku",
+      "quote": "Power comes in response to a need, not a desire."
+    },
+    {
+      "anime": "Haikyuu!!",
+      "character": "Shoyo Hinata",
+      "quote": "The future belongs to those who believe in the beauty of their dreams."
+    }
+  ]
+}

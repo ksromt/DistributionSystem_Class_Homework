@@ -1,0 +1,5 @@
+requests>=2.31.0
+pytest>=8.0.0
+requests-mock>=1.11.0
+
+
